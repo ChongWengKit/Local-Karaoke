@@ -1,0 +1,7 @@
+User information(Username,Password,Real name,Mobile phone number,Identification number)
+Chong Weng Kit
+kitweng12
+Chong Weng Kit
+0161234567
+011217-08-0181
+
